@@ -12,10 +12,11 @@
   *$ \*Main> printbraid 8 8*  
   *$ \*Main> solvebraid 8 8 (0, 0) (7, 7)*  
   *$ \*Main> printboth 8 8*  
-  *$ \*Main> solveboth 8 8 (0, 0) (7, 7)*  
-  
-  
-      
+  *$ \*Main> solveboth 8 8 (0, 0) (7, 7)*      
+
+
+**_Photographs of a perfect and braid maze:_**        
+
 **A Braid Maze:**
 ![alt text](https://github.com/Argc0/Maze/blob/master/Readme%20and%20photos/printbraid.png)
  
